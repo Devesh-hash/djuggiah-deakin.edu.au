@@ -16,34 +16,34 @@ void turn_Off(int l_off)
 
 void J()
 {
-turn_On (500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250);turn_On (1500); turn_Off (250);
+turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250);turn_On (1500); turn_Off (250);
 delay (1500);
 }
 
 void U()
 {
-turn_On (500); turn_Off (250); turn_On (500); turn_Off (250); turn_On (1500); turn_Off (250);
+turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250);
 delay (1500);
 }
 void G()
 {
-turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (500); turn_Off (250);
+turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250);
 delay (1500);
 }
 
 void I()
 {
-turn_On (500); turn_Off (250); turn_On (500); turn_Off (250);
+turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250);
 delay (1500);
 }
 void A()
 {
-turn_On (500); turn_Off (250); turn_On (1500); turn_Off (250); 
+turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); 
 delay (1500);
 }
 void H()
 {
-turn_On (500); turn_Off (250); turn_On (500); turn_Off (250); turn_On (500); turn_Off (250); turn_On (500); turn_Off (250);
+turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250); turn_On (1500); turn_Off (250);
 delay (1500);
 }
 
